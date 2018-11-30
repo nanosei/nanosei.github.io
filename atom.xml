@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Nanosei</title>
+  
+  <subtitle>欢迎来到我的网站</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://www.nanosei.wang/"/>
+  <updated>2018-11-30T15:43:47.030Z</updated>
+  <id>https://www.nanosei.wang/</id>
+  
+  <author>
+    <name>Nanosei</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>2018.11.30网站优化记录4</title>
+    <link href="https://www.nanosei.wang/2018/11/30/%E7%BD%91%E7%AB%99%E8%AE%B0%E5%BD%954/"/>
+    <id>https://www.nanosei.wang/2018/11/30/网站记录4/</id>
+    <published>2018-11-30T15:41:57.600Z</published>
+    <updated>2018-11-30T15:43:47.030Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="震惊！把一个文件删除了之后竟然会发生这么大的变化"><a href="#震惊！把一个文件删除了之后竟然会发生这么大的变化" class="headerlink" title="震惊！把一个文件删除了之后竟然会发生这么大的变化"></a>震惊！把一个文件删除了之后竟然会发生这么大的变化</h3><a id="more"></a><p>今天把next主题文件整个删除之后又重新下载配置了一遍（之前的next文件夹有备份，按照备份重新配置的:) ）然后在新的NEXT文件里面source文件夹下发现了一个叫“static”的文件夹，点开之后发现里面全是样式表啥的，就每没有复制粘贴上去，结果竟然发现我的文章的阅读次数竟然就可以显示了，哇！开心！</p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;h3 id=&quot;震惊！把一个文件删除了之后竟然会发生这么大的变化&quot;&gt;&lt;a href=&quot;#震惊！把一个文件删除了之后竟然会发生这么大的变化&quot; class=&quot;headerlink&quot; title=&quot;震惊！把一个文件删除了之后竟然会发生这么大的变化&quot;&gt;&lt;/a&gt;震惊！把一个文件删除了之后竟然会发生这么大的变化&lt;/h3&gt;
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>2018.11.29 网站优化记录3</title>
+    <link href="https://www.nanosei.wang/2018/11/29/%E7%BD%91%E7%AB%99%E4%BF%AE%E6%94%B9%E8%AE%B0%E5%BD%953/"/>
+    <id>https://www.nanosei.wang/2018/11/29/网站修改记录3/</id>
+    <published>2018-11-29T05:40:14.566Z</published>
+    <updated>2018-11-29T14:05:57.452Z</updated>
+    
+    <content type="html"><![CDATA[<p>﻿昨天果然是没时间弄了，今天正好一天没课嘻嘻嘻</p><a id="more"></a><ul><li><p>之前发现的网站访问量有两行并且有一行不显示数据，星期三找了半天都发现不了问题，今天一看发现next主题更新之后就不用再去修改footer.swing的代码了，修改了之后就会出现这个问题</p></li><li><p>文章阅读数改了一天不知道哪里出错了，本地网页和域名的那个网页也还不同步不知道具体什么情况。哇好烦啊</p><h5 id="21：55更新："><a href="#21：55更新：" class="headerlink" title="21：55更新："></a>21：55更新：</h5><p>下午5点多弄访问次数无果，添加了点其他的东西，本来想进入网站看一下效果的，结果等了几个小时没有更新？太不对劲了，去网上搜也搜不到结果，最后在github上把域名删除了又重新设了一遍就好了？？？哇震惊最后也不知道为什么，只知道布置在github上没问题，上传到域名上就不更新了。不会每次都要这样吧……</p><p>结果最后啥都没做</p><p>明天又是满课的一天估计又没时间了TAT</p><p>哎难过:sob:</p><p>说好的学习也没有:disappointed:</p></li></ul>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;﻿昨天果然是没时间弄了，今天正好一天没课嘻嘻嘻&lt;/p&gt;
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>2018.11.27 网站优化记录2</title>
+    <link href="https://www.nanosei.wang/2018/11/27/%E7%BD%91%E7%AB%99%E4%BC%98%E5%8C%962/"/>
+    <id>https://www.nanosei.wang/2018/11/27/网站优化2/</id>
+    <published>2018-11-27T15:06:48.043Z</published>
+    <updated>2018-11-27T15:13:57.055Z</updated>
+    
+    <content type="html"><![CDATA[<h4 id="今天本来以为要安装明天上课用的数据库的SQL-server顺便熟悉一下操作的，但是下载要太长时间了闲得无聊顺便就美化一下网站吧"><a href="#今天本来以为要安装明天上课用的数据库的SQL-server顺便熟悉一下操作的，但是下载要太长时间了闲得无聊顺便就美化一下网站吧" class="headerlink" title="今天本来以为要安装明天上课用的数据库的SQL server顺便熟悉一下操作的，但是下载要太长时间了闲得无聊顺便就美化一下网站吧~"></a>今天本来以为要安装明天上课用的数据库的SQL server顺便熟悉一下操作的，但是下载要太长时间了闲得无聊顺便就美化一下网站吧~</h4><a id="more"></a><p>（今天想了想头像弄成圆形的再旋转感觉有点不搭就算了罢）</p><p>（昨天发现右侧边那一栏点开文章就自动出现了也不知道为什么但是不用再弄那个就是了）</p><h5 id="完成的优化："><a href="#完成的优化：" class="headerlink" title="完成的优化："></a>完成的优化：</h5><ul><li><p>主页文章加阴影边框</p></li><li><p>添加访问量及阅读量</p></li><li><p>在文章中添加了“阅读全文”按钮 （想要好久了）</p><h4 id="未完成："><a href="#未完成：" class="headerlink" title="未完成："></a>未完成：</h4><ul><li><p>热度（不知道为什么中间一直有|和一个图标）</p></li><li><p>访问人次（网页最下面还没有数据）</p></li><li><p>使用typroa排版按回车换行之后总是感觉排版好奇怪，一直在往右偏</p><h3 id="哇今天效率有一点点低了，明天晚上也有课也不知道还有没有时间弄。"><a href="#哇今天效率有一点点低了，明天晚上也有课也不知道还有没有时间弄。" class="headerlink" title="哇今天效率有一点点低了，明天晚上也有课也不知道还有没有时间弄。"></a>哇今天效率有一点点低了，明天晚上也有课也不知道还有没有时间弄。</h3></li></ul></li></ul>]]></content>
+    
+    <summary type="html">
+    
+      &lt;h4 id=&quot;今天本来以为要安装明天上课用的数据库的SQL-server顺便熟悉一下操作的，但是下载要太长时间了闲得无聊顺便就美化一下网站吧&quot;&gt;&lt;a href=&quot;#今天本来以为要安装明天上课用的数据库的SQL-server顺便熟悉一下操作的，但是下载要太长时间了闲得无聊顺便就美化一下网站吧&quot; class=&quot;headerlink&quot; title=&quot;今天本来以为要安装明天上课用的数据库的SQL server顺便熟悉一下操作的，但是下载要太长时间了闲得无聊顺便就美化一下网站吧~&quot;&gt;&lt;/a&gt;今天本来以为要安装明天上课用的数据库的SQL server顺便熟悉一下操作的，但是下载要太长时间了闲得无聊顺便就美化一下网站吧~&lt;/h4&gt;
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>2018.11.26 网站优化记录1</title>
+    <link href="https://www.nanosei.wang/2018/11/26/%E7%BD%91%E7%AB%99%E4%BC%98%E5%8C%96%E8%AE%B0%E5%BD%951/"/>
+    <id>https://www.nanosei.wang/2018/11/26/网站优化记录1/</id>
+    <published>2018-11-26T15:27:59.019Z</published>
+    <updated>2018-11-27T12:25:55.814Z</updated>
+    
+    <content type="html"><![CDATA[<h4 id="今天突然想要把建立网站之后的优化一点一点写出来，记录一下，顺便熟悉一下在网站上发表文章的操作和markdown的格式。"><a href="#今天突然想要把建立网站之后的优化一点一点写出来，记录一下，顺便熟悉一下在网站上发表文章的操作和markdown的格式。" class="headerlink" title="今天突然想要把建立网站之后的优化一点一点写出来，记录一下，顺便熟悉一下在网站上发表文章的操作和markdown的格式。"></a>今天突然想要把建立网站之后的优化一点一点写出来，记录一下，顺便熟悉一下在网站上发表文章的操作和markdown的格式。</h4><a id="more"></a><ul><li><p>修改了change_title时图标显示空白的bug。</p></li><li><p>添加网页在线联系的功能</p></li><li><p>添加在线评论系统（有一点bug感觉，点击登陆之后跳转到github的页面404不知道为什么 ）</p><h3 id="明天想要完成的任务："><a href="#明天想要完成的任务：" class="headerlink" title="明天想要完成的任务："></a>明天想要完成的任务：</h3><ul><li><p>第一篇文章hello word 一进入文章右侧就会有文章目录和站点概览的导航栏出来，每篇文章都想拥有这个功能，如果可以自己控制导航栏的隐藏和显示就更好了</p></li><li><p>头像头像！好几天没弄头像了 七牛云注册好几天了都没有使用过</p></li><li><p>头像上传完毕想要试一试旋转和把头像弄成圆形的</p></li><li><p>在文章中尝试加入图片，试一试七牛云的功能</p></li><li><p>为了弄博客已经好几天没听课了，要把落下的补回来</p><h2 id="加油鸭！​"><a href="#加油鸭！​" class="headerlink" title="加油鸭！​"></a>加油鸭！​</h2></li></ul></li></ul>]]></content>
+    
+    <summary type="html">
+    
+      &lt;h4 id=&quot;今天突然想要把建立网站之后的优化一点一点写出来，记录一下，顺便熟悉一下在网站上发表文章的操作和markdown的格式。&quot;&gt;&lt;a href=&quot;#今天突然想要把建立网站之后的优化一点一点写出来，记录一下，顺便熟悉一下在网站上发表文章的操作和markdown的格式。&quot; class=&quot;headerlink&quot; title=&quot;今天突然想要把建立网站之后的优化一点一点写出来，记录一下，顺便熟悉一下在网站上发表文章的操作和markdown的格式。&quot;&gt;&lt;/a&gt;今天突然想要把建立网站之后的优化一点一点写出来，记录一下，顺便熟悉一下在网站上发表文章的操作和markdown的格式。&lt;/h4&gt;
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>经过将近一周的时间终于建好我的新博客！</title>
+    <link href="https://www.nanosei.wang/2018/11/15/%E7%BB%8F%E8%BF%87%E5%B0%86%E8%BF%91%E4%B8%80%E5%91%A8%E7%9A%84%E6%97%B6%E9%97%B4%E7%BB%88%E4%BA%8E%E5%BB%BA%E5%A5%BD%E6%88%91%E7%9A%84%E6%96%B0%E5%8D%9A%E5%AE%A2%EF%BC%81/"/>
+    <id>https://www.nanosei.wang/2018/11/15/经过将近一周的时间终于建好我的新博客！/</id>
+    <published>2018-11-15T05:14:51.000Z</published>
+    <updated>2018-11-15T05:14:51.952Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>welcome to my website</title>
+    <link href="https://www.nanosei.wang/2018/11/14/welcome-to-my-website/"/>
+    <id>https://www.nanosei.wang/2018/11/14/welcome-to-my-website/</id>
+    <published>2018-11-14T11:20:04.000Z</published>
+    <updated>2018-11-14T11:20:04.506Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>My New Post</title>
+    <link href="https://www.nanosei.wang/2018/11/13/My-New-Post/"/>
+    <id>https://www.nanosei.wang/2018/11/13/My-New-Post/</id>
+    <published>2018-11-13T14:02:07.000Z</published>
+    <updated>2018-11-25T13:11:54.970Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://www.nanosei.wang/2018/11/13/hello-world/"/>
+    <id>https://www.nanosei.wang/2018/11/13/hello-world/</id>
+    <published>2018-11-13T13:41:22.408Z</published>
+    <updated>2018-11-25T13:05:45.117Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
